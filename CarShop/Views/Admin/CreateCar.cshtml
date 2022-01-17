@@ -1,0 +1,82 @@
+﻿@model CarShop.ViewModels.CreateCarViewModel;
+
+@{
+    ViewBag.Title = "Add Car";
+}
+
+
+<form asp-action="CreateCar" method="post" asp-controller="Admin" class="login-registerform">
+    <div class="content">
+        <h2>Add Car</h2>
+        <div asp-validation-summary="All"></div>
+        <div>
+            <label>Insert Category</label>
+            <select asp-for="CategoryId">
+                @foreach (var cut in
+             (List<Category>)ViewBag.categorys)
+                {
+                    <option value="@cut.CategoryId">@cut.CategoryName</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label>Insert Company</label>
+            <select asp-for="CompanyId" >
+                @foreach (var cut in
+             (List<Company>)ViewBag.companys)
+                {
+                    <option value="@cut.CompanyId">@cut.CompanyName</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label>Insert Car Model</label>
+            <select asp-for="CarModelId">
+                @foreach (var cut in
+              (List<CarModel>)ViewBag.models)
+                {
+                    <option value="@cut.CarModelId">@cut.CarModelName</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label asp-for="Name">Name</label>
+            <input type="text" asp-for="Name" />
+        </div>
+        <div>
+            <label asp-for="Price">Price</label>
+            <input type="number" asp-for="Price" />
+        </div>
+        <div>
+            <label asp-for="Color">Color</label>
+            <input type="text" asp-for="Color" />
+        </div>
+        <div>
+            <label asp-for="Engine">Engine</label>
+            <input type="text" asp-for="Engine" />
+        </div>
+        <div>
+            <label asp-for="SteeringWheel">SteeringWheel</label>
+            <input type="number" asp-for="SteeringWheel" />
+        </div>
+        <div>
+            <label asp-for="Transmission">Transmission</label>
+            <input type="number" asp-for="Transmission" />
+        </div>
+        <div>
+            <label asp-for="Modification">Modification</label>
+            <input type="text" asp-for="Modification" />
+        </div>
+        <div>
+            <label asp-for="Body">Body</label>
+            <input type="number" asp-for="Body" />
+        </div>
+        <div>
+            <label asp-for="Mileage">Mileage</label>
+            <input type="number" asp-for="Mileage" />
+        </div>
+        <div>
+            <input type="submit" value="Add" class="loginregister-btn" />
+        </div>
+    </div>
+</form>

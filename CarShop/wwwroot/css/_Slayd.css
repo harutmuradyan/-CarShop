@@ -1,0 +1,35 @@
+﻿.container {
+  background-color: #dc3545;
+  max-width: 1400px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin: auto;
+  margin-bottom: 50px; }
+  .container .row {
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center; }
+    .container .row .col-2 {
+      flex-basis: 50%;
+      max-width: 400px; }
+      .container .row .col-2 img {
+        max-width: 50%;
+        max-height: 50%;
+        padding: 50px 0; }
+      .container .row .col-2 h1 {
+        font-size: 50px;
+        line-height: 60px;
+        margin: 25px 0;
+        color: white; }
+      .container .row .col-2 .btn {
+        display: inline-block;
+        background: #ff523b;
+        color: #fff;
+        padding: 8px 30px;
+        margin: 30px 0;
+        border-radius: 30px;
+        transition: background 0.5s; }
+        .container .row .col-2 .btn:hover {
+          background: #563434; }

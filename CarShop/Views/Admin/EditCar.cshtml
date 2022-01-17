@@ -1,0 +1,59 @@
+﻿@model CarShop.ViewModels.EditCarViewModel
+@{
+    ViewBag.Title = "Edit Car";
+}
+<form asp-action="EditCar" asp-controller="Admin"  class="login-registerform">
+    <div class="content">
+        <div asp-validation-summary="All" ></div>
+        <div >
+            <input type="hidden" asp-for="Id" />
+        </div>
+        <div>
+            <label asp-for="Name">Name</label>
+            <input type="text" asp-for="Name"  />
+        </div>
+        @*<div >
+            <label asp-for="Company">Company</label>
+            <input type="text" asp-for="Company" />
+        </div>*@
+        <div >
+            <label asp-for="Price">Perice</label>
+            <input type="number" asp-for="Price"  />
+        </div>
+        @*<div >
+            <label asp-for="Model" >Model</label>
+            <input type="number" asp-for="Model"  />
+        </div>*@
+        <div >
+            <label asp-for="Color">Color</label>
+            <input type="text" asp-for="Color" />
+        </div>
+        <div >
+            <label asp-for="Engine" >Engine</label>
+            <input type="text" asp-for="Engine"  />
+        </div>
+        <div >
+            <label asp-for="SteeringWheel" >SteeringWheel</label>
+            <input type="number" asp-for="SteeringWheel" />
+        </div>
+        <div >
+            <label asp-for="Transmission" >Transmission</label>
+            <input type="number" asp-for="Transmission"  />
+        </div>
+        <div >
+            <label asp-for="Modification" >Modification</label>
+            <input type="text" asp-for="Modification"  />
+        </div>
+        <div >
+            <label asp-for="Body" >Body</label>
+            <input type="number" asp-for="Body" />
+        </div>
+        <div >
+            <label asp-for="Mileage">Mileage</label>
+            <input type="number" asp-for="Mileage" />
+        </div>
+        <div >
+            <input type="submit" value="Save" class="loginregister-btn" />
+        </div>
+    </div>
+</form>

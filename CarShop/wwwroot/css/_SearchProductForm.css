@@ -1,0 +1,69 @@
+﻿body .my_form {
+  margin: 0px 0px 50px 0px;
+  padding: 100px 0px 100px 0px;
+  width: 100%;
+  background-color: #dc3545; }
+  body .my_form .my-container {
+    max-width: 1200px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px; }
+    body .my_form .my-container form {
+      margin-top: 5px; }
+      body .my_form .my-container form .my-sectioncategory .my-buttons {
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center; }
+        body .my_form .my-container form .my-sectioncategory .my-buttons button {
+          margin: 3px 3px 3px 3px;
+          margin: 3px 10px 3px 10px;
+          width: 100px;
+          height: 80px;
+          border: none;
+          background-color: #dc3545;
+          flex-basis: 12%; }
+          body .my_form .my-container form .my-sectioncategory .my-buttons button:hover {
+            background-color: black;
+            border-radius: 5px; }
+          body .my_form .my-container form .my-sectioncategory .my-buttons button img {
+            width: 75%;
+            height: 75%; }
+          body .my_form .my-container form .my-sectioncategory .my-buttons button p {
+            color: white; }
+      body .my_form .my-container form .product-search {
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center; }
+        body .my_form .my-container form .product-search div {
+          flex-basis: 25%; }
+          body .my_form .my-container form .product-search div p {
+            width: 100%;
+            color: white;
+            margin: 0px 6px 2px 5px; }
+          body .my_form .my-container form .product-search div select {
+            margin: 0px 5px 0px 5px;
+            width: 95%;
+            height: 30px;
+            border-radius: 5px; }
+          body .my_form .my-container form .product-search div input {
+            width: 100%;
+            border-radius: 50px;
+            margin: 0px 5px 0px 5px; }
+          body .my_form .my-container form .product-search div .btn-checkbox {
+            display: flex; }
+            body .my_form .my-container form .product-search div .btn-checkbox input {
+              width: 20%; }
+            body .my_form .my-container form .product-search div .btn-checkbox p {
+              width: 80%; }
+          body .my_form .my-container form .product-search div .two-select {
+            display: flex; }
+      body .my_form .my-container form button {
+        float: right;
+        background-color: black;
+        color: white;
+        border-radius: 5px;
+        padding: 8px 8px 8px 8px;
+        margin: 8px 3px 5px 3px;
+        text-decoration: none;
+        font-size: 15px;
+        border: none; }

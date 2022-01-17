@@ -1,0 +1,45 @@
+﻿.privacy-page {
+    width: 100%;
+    margin: 200px 0px 200px 0px;
+
+    .privacy-conatent {
+        max-width: 800px;
+        display: flex;
+        margin: 0 auto;
+
+        .privacy-info {
+            flex-basis: 80%;
+            margin: 0 auto;
+
+            h1 {
+                margin: 10px 0px 10px 0px;
+                text-align: center;
+                color: #dc3545;
+            }
+
+            li {
+                list-style-type: none;
+                margin: 10px 0px 10px 0px;
+                padding: 3px 0px 3px 0px;
+
+                p {
+                    text-transform: uppercase;
+                    font-weight: 600;
+                    color: black;
+                    font-size: 20px;
+
+                    span {
+                        font-size: 18px;
+                        color: #dc3545;
+                    }
+                }
+            }
+        }
+
+        .google-cart {
+            display: flex;
+            margin: 0 auto;
+            flex-basis: 50%;
+        }
+    }
+}

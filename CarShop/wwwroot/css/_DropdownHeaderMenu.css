@@ -1,0 +1,90 @@
+﻿.dropdown .drop-margin {
+  margin-top: 18px; }
+
+.dropdown .header-btn {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 10px 8px 10px;
+  margin: 8px 3px 5px 3px;
+  text-decoration: none; }
+  .dropdown .header-btn img {
+    width: 15px;
+    height: 15px; }
+
+.dropdown .adminBar-btn {
+  background-color: #dc3545;
+  color: white;
+  border-radius: 5px;
+  padding: 12px 10px 10px 10px;
+  margin: 8px 3px 5px 3px;
+  text-decoration: none;
+  border: none; }
+
+.dropdown .my-fluid {
+  width: 100%; }
+  .dropdown .my-fluid .my-container {
+    max-width: 1280px;
+    margin: auto;
+    display: flex; }
+    .dropdown .my-fluid .my-container div {
+      flex-basis: 50%; }
+      .dropdown .my-fluid .my-container div h6 {
+        text-align: center;
+        color: white; }
+      .dropdown .my-fluid .my-container div ul {
+        display: flex;
+        justify-content: center; }
+  .dropdown .my-fluid .my-content {
+    max-width: 1080px;
+    margin-left: 4px;
+    float: left; }
+
+.dropdown-content {
+  display: none; }
+  .dropdown-content .drop-blockCat {
+    padding: 20px 0px 20px 0px;
+    top: 60px;
+    left: 0px;
+    position: fixed;
+    background-color: darkslategrey;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1; }
+    .dropdown-content .drop-blockCat ul li {
+      background-color: dimgrey;
+      list-style-type: none;
+      margin: 5px 5px 5px 5px;
+      padding: 8px 8px 8px 8px;
+      border-radius: 10px; }
+      .dropdown-content .drop-blockCat ul li :hover {
+        background-color: darkgrey;
+        border-radius: 10px; }
+      .dropdown-content .drop-blockCat ul li a {
+        display: block;
+        width: 40px;
+        height: 40px; }
+        .dropdown-content .drop-blockCat ul li a img {
+          width: 100%;
+          height: 100%; }
+  .dropdown-content .admin-bar .my-ContetntBar {
+    padding: 8px 8px 8px 8px;
+    top: 60px;
+    position: absolute;
+    width: 110px;
+    z-index: 1;
+    background-color: #dc3545;
+    border-radius: 10px;
+    border: solid 1px white; }
+    .dropdown-content .admin-bar .my-ContetntBar a {
+      display: block;
+      padding: 3px 3px 3px 3px;
+      text-decoration: none;
+      background-color: #dc3545;
+      width: 100%;
+      color: white; }
+      .dropdown-content .admin-bar .my-ContetntBar a:hover {
+        color: aquamarine; }
+
+.show {
+  display: block; }

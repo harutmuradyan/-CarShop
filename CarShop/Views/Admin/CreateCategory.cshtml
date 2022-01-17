@@ -1,0 +1,18 @@
+﻿@model CarShop.ViewModels.CreateCategoryViewModel;
+
+@{
+    ViewBag.Title = "Add Category";
+}
+<form asp-action="CreateCategory" method="post" asp-controller="Admin" class="login-registerform">
+    <div class="content">
+        <div asp-validation-summary="All" ></div>
+        <div>
+            <label asp-for="CategoryName" >CategoryName</label>
+            <input type="text" asp-for="CategoryName" />
+        </div>
+        
+        <div>
+            <input type="submit" value="Add" class="loginregister-btn" />
+        </div>
+    </div>
+</form>

@@ -1,0 +1,169 @@
+﻿@model CarShop.Models.Car
+
+<div class="presentation">
+    <div class="Presentation-content">
+        <div class="left-bar">
+
+            <a href="#">
+                <img src="~/img/Project Icons/Left.png">
+            </a>
+
+            @if (Model != null)
+            {
+                <h2>@Model.Name</h2>
+            }
+            else
+            {
+                <h1>hello</h1>
+            }
+
+        </div>
+
+        <div class="mytwo-row">
+            <div>
+                <div class="slider">
+                    <div class="item">
+                        <img src="~/img/Cars/1.jpg" alt="Первый слайд">
+                    </div>
+
+                    <div class="item">
+                        <img src="~/img/Cars/2.jpg" alt="Второй слайд">
+                    </div>
+
+                    <div class="item">
+                        <img src="~/img/Cars/3.jpg" alt="Третий слайд">
+                    </div>
+
+                    <a class="prev" onclick="minusSlide()">&#10094;</a>
+                    <a class="next" onclick="plusSlide()">&#10095;</a>
+                </div>
+
+                <div class="slider-dots">
+                    <img src="~/img/Cars/1.jpg" class="slider-dots_item" onclick="currentSlide(1)">
+                    <img src="~/img/Cars/2.jpg" class="slider-dots_item" onclick="currentSlide(2)">
+                    <img src="~/img/Cars/3.jpg" class="slider-dots_item" onclick="currentSlide(3)">
+                </div>
+            </div>
+
+            <div class="serting-car">
+                <div>
+                    <ul class="bar-carinfo">
+                        <li>
+                            Mileage
+                        </li>
+                        <li>
+                            Body
+                        </li>
+                        <li>
+                            Modification
+                        </li>
+                        <li>
+                            Transmission
+                        </li>
+                        <li>
+                            Steering wheel
+                        </li>
+                        <li>
+                            Engine
+                        </li>
+                        <li>
+                            Color
+                        </li>
+                    </ul>
+
+                    <ul class="bar-carinfo">
+                        <li>
+                            @Model.Mileage
+                        </li>
+                        <li>
+                            @Model.Body
+                        </li>
+                        <li>
+                            @Model.Modification
+                        </li>
+                        <li>
+                            @Model.Transmission
+                        </li>
+                        <li>
+                            @Model.SteeringWheel
+                        </li>
+                        <li>
+                            @Model.Engine
+                        </li>
+                        <li>
+                            @Model.Color
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul class="order-bar">
+                        <li>
+                            <a class="order-btn" asp-action="Buy" asp-controller="Home" asp-route-Id="@Model.CarId">By Order</a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+        <div class="mytwo-row">
+            <div>
+                <h5>
+                    Options
+                </h5>
+                <pre>
+    ABS, ESP, On-board computer, Heated Seats,
+    Electric Mirrors, Rain Sensor, Light Sensor,
+    Cruise Control, Լed headlights, Alarm System,
+    Central Locking, Adjustable wheel, Fog lights,
+    Tires, Sunroof, Rear vision camera, CD/MP3,
+    DVD, Airbags, Power seat adjustment, Leather Interior,
+    Tinted windows, Conditioner, Сlimate control,
+    Hydraulic Steering Wheel, Power Windows, Tuning                            
+                    </pre>
+            </div>
+            <div>
+                <h5>
+                    Options
+                </h5>
+                <pre>
+    ABS, ESP, On-board computer, Heated Seats,
+    Electric Mirrors, Rain Sensor, Light Sensor,
+    Cruise Control, Լed headlights, Alarm System,
+    Central Locking, Adjustable wheel, Fog lights,
+    Tires, Sunroof, Rear vision camera, CD/MP3,
+    DVD, Airbags, Power seat adjustment, Leather Interior,
+    Tinted windows, Conditioner, Сlimate control,
+    Hydraulic Steering Wheel, Power Windows, Tuning                            
+                    </pre>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

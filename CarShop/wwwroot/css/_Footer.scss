@@ -1,0 +1,63 @@
+﻿.footer {
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+    width:100%;
+    .my-container {
+        max-width: 1300px;
+        padding-right: 25px;
+        padding-left: 25px;
+        margin: auto;
+        background: #000;
+
+        .my-hr {
+            background: white;
+            border: none;
+            height: 1px;
+            margin: 20px 0;
+        }
+
+        p {
+            color:white;
+            text-align:center;
+        }
+
+        .my-row {
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            div {
+                flex-basis: 50%;
+                h2{
+                    text-align:center;
+                    color:white;
+                }
+                ul {
+                    margin: 0px;
+                    padding: 0px;
+                    display: flex;
+                    justify-content: center;
+
+                    li {
+                        margin: 5px 5px 3px 5px;
+                        list-style-type: none;
+
+                        a {
+                            font-size: 18px;
+                            color:white;
+                            text-decoration:none;
+                            .SocialWeb-img {
+                                width: 35px;
+                                height: 35px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

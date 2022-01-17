@@ -1,0 +1,31 @@
+﻿@model IEnumerable<CarShop.Models.Car>
+@{
+    ViewBag.Title = "Admin Home";
+}
+
+
+<div class="small-container">
+    <div class="my-row">
+
+        @foreach (var car in Model)
+        {
+            <div class="my-col-4">
+                <a asp-action="Presentation" asp-controller="Home" asp-route-Id="@car.CarId">
+                    <img src="~/img/Cars/1.jpg">
+                    <h5>@car.Name</h5>
+                </a>
+                <p>@car.Category?.CategoryName</p>
+                <p>@car.Company</p>
+                <p>@car.Price</p>
+                <a class="order-btn" asp-action="Presentation" asp-controller="Home" asp-route-Id="@car.CarId">Know more</a>
+
+                <form asp-action="DeleteCar" asp-route-id="@car.CarId" method="post" class="btn-editform">
+                    <a class="btn btn-sm btn-primary" asp-action="EditCar" asp-route-id="@car.CarId">Изменить</a>
+                    <button type="submit">
+                        Удалить
+                    </button>
+                </form>
+            </div>
+        }
+    </div>
+</div>

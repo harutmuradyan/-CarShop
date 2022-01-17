@@ -1,0 +1,21 @@
+﻿@model CarShop.ViewModels.EditCarModelViewModel;
+
+@{
+    ViewBag.Title = "Edit Category";
+}
+<form asp-action="EditCarModel" asp-controller="Admin" class="login-registerform">
+    <div class="content">
+        <div asp-validation-summary="All"></div>
+        <div>
+            <input type="hidden" asp-for="CarModelId" />
+        </div>
+        <div>
+            <label asp-for="CarModelName">CategoryName</label>
+            <input type="text" asp-for="CarModelName" />
+        </div>
+
+        <div>
+            <input type="submit" value="Save" class="loginregister-btn" />
+        </div>
+    </div>
+</form>

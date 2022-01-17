@@ -1,0 +1,25 @@
+﻿@model IEnumerable<CarShop.Models.Company>
+
+@{
+    ViewBag.Title = "Company View";
+}
+
+<div class="small-container">
+    <div class="my-row">
+        @foreach (var company in Model)
+        {
+            <div class="my-col-4">
+                <a asp-action="Presentation" asp-controller="Home" asp-route-Id="@company.CompanyId">
+                    <h5>@company.CompanyName</h5>
+                </a>
+
+                <form asp-action="DeleteCategory" asp-route-id="@company.CompanyId" method="post" class="btn-editform">
+                    <a asp-action="EditCategory" asp-route-id="@company.CompanyId">Изменить</a>
+                    <button type="submit" class="btn btn-sm btn-danger">
+                        Удалить
+                    </button>
+                </form>
+            </div>
+        }
+    </div>
+</div>

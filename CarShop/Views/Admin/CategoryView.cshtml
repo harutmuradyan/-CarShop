@@ -1,0 +1,25 @@
+﻿@model IEnumerable<CarShop.Models.Category>
+
+@{
+    ViewBag.Title = "Category View";
+}
+
+<div class="small-container">
+    <div class="my-row">
+       @foreach (var category in Model)
+        {
+            <div class="my-col-4">
+                <a asp-action="Presentation" asp-controller="Home" asp-route-Id="@category.CategoryId">
+                    <h5>@category.CategoryName</h5>
+                </a>
+
+                <form asp-action="DeleteCategory" asp-route-id="@category.CategoryId" method="post" class="btn-editform">
+                    <a asp-action="EditCategory" asp-route-id="@category.CategoryId">Изменить</a>
+                    <button type="submit" class="btn btn-sm btn-danger">
+                        Удалить
+                    </button>
+                </form>
+            </div>
+        }
+    </div>
+</div>

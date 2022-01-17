@@ -1,0 +1,62 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/_DropdownHeaderMenu.css",
+    "inputFile": "wwwroot/css/_DropdownHeaderMenu.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_Footer.css",
+    "inputFile": "wwwroot/css/_Footer.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_Header.css",
+    "inputFile": "wwwroot/css/_Header.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_Media.css",
+    "inputFile": "wwwroot/css/_Media.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_NewProduct.css",
+    "inputFile": "wwwroot/css/_NewProduct.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_PresentationBlock.css",
+    "inputFile": "wwwroot/css/_PresentationBlock.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_Rating-blok.css",
+    "inputFile": "wwwroot/css/_Rating-blok.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_SearchProductForm.css",
+    "inputFile": "wwwroot/css/_SearchProductForm.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/Style.css",
+    "inputFile": "wwwroot/css/Style.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_LoginRegisterForm.css",
+    "inputFile": "wwwroot/css/_LoginRegisterForm.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_slayder.css",
+    "inputFile": "wwwroot/css/_slayder.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_ContactsPage.css",
+    "inputFile": "wwwroot/css/_ContactsPage.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_PrivacyPage.css",
+    "inputFile": "wwwroot/css/_PrivacyPage.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_AboutPage.css",
+    "inputFile": "wwwroot/css/_AboutPage.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/_Slayd.css",
+    "inputFile": "wwwroot/css/_Slayd.scss"
+  }
+]

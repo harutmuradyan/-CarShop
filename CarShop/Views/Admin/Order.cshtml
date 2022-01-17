@@ -1,0 +1,20 @@
+﻿@model IEnumerable<CarShop.Models.Order>
+@{
+    ViewBag.Title = "Orders";
+}
+
+<div class="small-container">
+    <div class="my-row">
+
+        @foreach (var Order in Model)
+        {
+            <div class="my-col-4">
+                <p>Order Id : @Order.OrderId</p>
+                <p>Name : @Order.User</p>
+                <p>Addres : @Order.Address</p>
+                <p>Phone : @Order.ContactPhone</p>
+                <p>Comment : @Order.Comment</p>
+            </div>
+        }
+    </div>
+</div>

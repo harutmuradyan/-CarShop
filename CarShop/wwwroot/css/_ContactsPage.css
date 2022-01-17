@@ -1,0 +1,25 @@
+﻿body .contacts {
+  width: 100%;
+  margin: 200px 0px 200px 0px; }
+  body .contacts .contacts-content {
+    max-width: 800px;
+    display: flex;
+    margin: 0 auto; }
+    body .contacts .contacts-content .contact-info {
+      flex-basis: 50%; }
+      body .contacts .contacts-content .contact-info li {
+        list-style-type: none;
+        margin: 10px 0px 10px 0px;
+        padding: 3px 0px 3px 0px; }
+        body .contacts .contacts-content .contact-info li p {
+          text-transform: uppercase;
+          font-weight: 600;
+          color: black;
+          font-size: 20px; }
+          body .contacts .contacts-content .contact-info li p span {
+            font-size: 18px;
+            color: #dc3545; }
+    body .contacts .contacts-content .google-cart {
+      display: flex;
+      margin: 0 auto;
+      flex-basis: 50%; }

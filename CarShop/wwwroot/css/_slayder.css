@@ -1,0 +1,80 @@
+﻿@charset "UTF-8";
+body {
+  /* Картинка мастабируется по отношению к родительскому элементу */
+  /* Кнопки вперед и назад */
+  /* При наведении на кнопки добавляем фон кнопок */
+  /* Заголовок слайда */
+  /* Кружочки */
+  /* Анимация слайдов */ }
+  body .slider {
+    max-width: 90%;
+    position: relative;
+    margin: auto;
+    height: 300px;
+    margin-bottom: 15px; }
+  body .slider .item img {
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+    border: none !important;
+    box-shadow: none !important; }
+  body .slider .prev, body .slider .next {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0; }
+  body .slider .next {
+    right: 0;
+    border-radius: 3px 0 0 3px; }
+  body .slider .prev:hover,
+  body .slider .next:hover {
+    background-color: rgba(0, 0, 0, 0.8); }
+  body .slideText {
+    position: absolute;
+    color: #fff;
+    font-size: 35px;
+    /* Выравнивание текста по горизонтали и по вертикали*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* Тень*/
+    text-shadow: 1px 1px 1px #000, 0 0 1em #000; }
+  body .slider-dots {
+    text-align: center; }
+  body .slider-dots_item {
+    cursor: pointer;
+    flex-basis: 20%;
+    height: 100px;
+    margin: 0 2px;
+    background-color: #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    transition: background-color 0.6s ease; }
+  body .active,
+  body .slider-dots_item:hover {
+    background-color: #aaa; }
+  body .slider .item {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s; }
+
+@-webkit-keyframes fade {
+  from {
+    opacity: .4; }
+  to {
+    opacity: 1; } }
+
+@keyframes fade {
+  from {
+    opacity: .4; }
+  to {
+    opacity: 1; } }

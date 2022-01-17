@@ -1,0 +1,877 @@
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\Desktop\Новая папка\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CarModelView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CompanyView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CarModelView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CompanyView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Order.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Slayd.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonials-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CarModelView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CompanyView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Order.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Slayd.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonials-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete
+C:\Users\User\source\repos\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.exe
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.deps.json
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.json
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.StaticWebAssets.xml
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.styles.css
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.input.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.TagHelpers.output.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CarModelView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CompanyView.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCar.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCarModel.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCompany.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Order.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\buy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Presentation.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_BestSale.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_NewProduct.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_SearchProductForm.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Slayd.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonials-blok.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DropdownHeaderMenu.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.Views.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.dll
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.pdb
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CarShop1\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\CarShop\obj\Debug\netcoreapp3.1\CarShop.csproj.CopyComplete

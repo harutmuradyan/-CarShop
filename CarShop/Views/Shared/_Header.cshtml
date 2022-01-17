@@ -1,0 +1,85 @@
+﻿<header class="header">
+    <nav>
+        <div class="my-row">
+            <div class="header-left">
+                <partial name="_DropdownHeaderMenu">
+
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="LogoCompany">
+                    <img src="~/img/Logo Company/Logo.jpg" alt="Logo Company" />
+                </a>
+            </div>
+
+            
+            <div class="header-rigth">
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    @if (User.Identity.Name == "admin@gmail.com")
+                    {
+
+                        <div class="block-rigth">
+                            <div class="dropdown">
+                                <button onclick="myFunctions()" class="dropbtn adminBar-btn">Admin</button>
+                                <div id="myDropdowns" class="dropdown-content">
+                                    <div class="admin-bar my-fluid">
+                                        <div class="my-content">
+                                            <div class="my-ContetntBar">
+                                                <a asp-action="Order" asp-controller="Admin" class="btn-CreateCar">Order</a>
+
+                                                <a asp-action="index" asp-controller="Admin" class="btn-CreateCar">Cars</a>
+
+                                                <a asp-action="CreateCar" asp-controller="Admin" class="btn-CreateCar">Add Car</a>
+
+                                                <a asp-action="CategoryView" asp-controller="Admin" class="btn-CreateCar">Category</a>
+
+                                                <a asp-action="CreateCategory" asp-controller="Admin" class="btn-CreateCar">Add Category</a>
+
+                                                <a asp-action="CompanyView" asp-controller="Admin" class="btn-CreateCar">Company</a>
+
+                                                <a asp-action="CreateCompany" asp-controller="Admin" class="btn-CreateCar">Add Company</a>
+
+                                                <a asp-action="CarModelView" asp-controller="Admin" class="btn-CreateCar">Model</a>
+
+                                                <a asp-action="CreateCarModel" asp-controller="Admin" class="btn-CreateCar">Add Model</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <form method="post" asp-controller="Account" asp-action="Logout">
+                                <input type="submit" value="Logout" class="header-btn" />
+                            </form>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="user-bar">
+                            <button type="button" class="header-btn">@User.Identity.Name</button>
+
+                            <form method="post" asp-controller="Account" asp-action="Logout">
+                                <input type="submit" value="Logout" class="header-btn" />
+                            </form>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <ul>
+                        <li>
+                            <a type="button" asp-area="" asp-controller="Account" asp-action="Login" class="header-btn" id="btn-regiter">
+                                <img src="~/img/Project Icons/User.png" alt="Alternate Text" />
+                                Login
+                            </a>
+                        </li>
+                        <li>
+                            <a type="button" asp-area="" asp-controller="Account" asp-action="Register" class="header-btn">
+                                <img src="~/img/Project Icons/User.png" alt="Alternate Text" />
+                                Register
+                            </a>
+                        </li>
+                    </ul>
+                }
+            </div>
+        </div>
+    </nav>
+</header>

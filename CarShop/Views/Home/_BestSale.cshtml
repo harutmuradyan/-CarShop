@@ -1,0 +1,18 @@
+﻿<div class="small-container mb-5">
+    <h1 class="title">Best Sale</h1>
+    <div class="my-row">
+        @foreach (var car in Model)
+        {
+            <div class="my-col-4">
+                <a asp-action="Presentation" asp-controller="Home" asp-route-Id="@car.CarId">
+                    <img src="~/img/Cars/1.jpg">
+                    <h5>@car.Name</h5>
+                </a>
+                <partial name="_Rating-blok">
+                <p>@car.Category.CategoryName</p>
+                <p>@car.Price</p>
+                <a class="order-btn" asp-action="Presentation" asp-controller="Home" asp-route-Id="@car.CarId">Know more</a>
+            </div>
+        }
+    </div>
+</div>

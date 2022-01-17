@@ -1,0 +1,28 @@
+﻿@model CarShop.ViewModels.CreateCarModelViewModel;
+
+@{
+    ViewBag.Title = "Add Car Model";
+}
+<form asp-action="CreateCarModel" method="post" asp-controller="Admin" class="login-registerform">
+    <div class="content">
+        <div asp-validation-summary="All"></div>
+        <div>
+            <label>Insert Company</label>
+            <select asp-for="CompanyId">
+                @foreach (var cut in
+            (List<Company>)ViewBag.companys)
+                {
+                    <option value="@cut.CompanyId">@cut.CompanyName</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label asp-for="CarModelName">Car Model Name</label>
+            <input type="text" asp-for="CarModelName" />
+        </div>
+
+        <div>
+            <input type="submit" value="Add" class="loginregister-btn" />
+        </div>
+    </div>
+</form>

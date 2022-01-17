@@ -1,0 +1,39 @@
+﻿@model CarShop.ViewModels.OrderViewModel;
+
+@{
+    ViewBag.Title = "Order";
+}
+
+
+<form method="post" class="login-registerform" asp-controller="Home" asp-action="buy">
+    <h2>Форма оформления покупки</h2>
+    <p>Для оформления покупки заполните следующие поля:</p>
+    <input type="hidden" value="@ViewBag.CarId" name="CarId" />
+    <div class="content">
+        <div>
+            <label asp-for="User">Name</label><br />
+            <input type="text" asp-for="User" />
+            <span></span>
+        </div>
+        <div>
+            <label asp-for="Address">Address</label><br />
+            <input type="text" asp-for="Address" />
+            <span></span>
+        </div>
+        <div>
+            <label asp-for="ContactPhone">ContactPhone</label><br />
+            <input type="text" asp-for="ContactPhone" />
+            <span></span>
+        </div>
+        <div>
+            <label asp-for="Comment">Coment</label><br />
+            <textarea id="Coment" asp-for="Comment" rows="4" cols="40"></textarea>
+            <span></span>
+        </div>
+        <div>
+            <input type="submit" value="Send" class="loginregister-btn" />
+        </div>
+    </div>
+</form>
+
+
